@@ -1,0 +1,14 @@
+{
+  "timeZone": "America/Sao_Paulo",
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "Dados da VTEX",
+    "logoUrl": "https://vtex.com/wp-content/themes/VTEXTheme/v2/images/base/vtex.svg",
+    "company": "Corebiz",
+    "companyUrl": "https://www.corebiz.ag/pt/",
+    "description": "Obtenha os dados da VTEX",
+    "addonUrl": "https://github.com/JohnCorebiz/googlelookerstudio"
+    "sources": ["Corebiz"]
+  }
+}
